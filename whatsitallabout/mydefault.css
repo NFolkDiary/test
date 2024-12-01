@@ -1,0 +1,31 @@
+/* Default CSS file for Leicester Folk Diary and asscoiated web sites */
+
+body {text-align:center; padding:8px;background-image:url(http://gu4.org.uk/husavik.jpg); background-repeat:repeat; }
+
+#wrapper {background-color:#e8d8b8; width:94%; text-align:left; margin-left:auto; margin-right:auto;}
+
+#sidebar {padding: 8px; width:200px; float:left; margin-left: -2em;}
+#sidebar ul {margin-top: 14px; }
+#sidebar li {padding:4px; list-style-type:none; } 
+#sidebar a:hover, #sidebar a:active {color:black; }
+
+#header {text-align:center; color:black; padding:4px; font-size:2em; font-weight:bold; }
+
+#article {color:black; padding:2em; margin-left:216px;background-color:#eeddbb; padding-top:0.2em; }
+#footer {clear:both; border: none; color:black; padding:8px; }
+
+#navbar {padding-top:0.1em; }
+#navbar ul li {display:inline; line-height:220%; }
+#navbar a {padding:3px; color:white; background-color:gray; font-family:sans-serif; border-style:outset; text-decoration:none; }
+#navbar a:hover, 
+#navbar a:active {border-style:inset;color:black; }
+
+.floatright {float:right; margin:10px;}
+.floatleft {float:left; margin:10px;}
+
+img {border: 2px solid white; }
+
+
+td {border: 1px solid black; padding: 4px; }
+
+caption {text-align:left; font-weight:bold; padding:8px;}
